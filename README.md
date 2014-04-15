@@ -1,7 +1,7 @@
 # clojure-learning-resources
 ==========================
 
-## A list of Clojure projects which have tags that indicate novice Clojurists could contribute to them. - 
+### A list of Clojure projects which have tags that indicate novice Clojurists could contribute to them. - 
 Leif Poorman (leif.poorman@gmail.com)
 
 * (["https://github.com/LightTable/LightTable" #{"starter"}]
@@ -42,5 +42,5 @@ Leif Poorman (leif.poorman@gmail.com)
  
  
  
- ## If you have other resources, send me a pull request! - Marcus
+ ### If you have other resources, send me a pull request! - Marcus
  
