@@ -4,7 +4,7 @@ clojure-learning-resources
 A list of Clojure projects which have tags that indicate novice Clojurists could contribute to them. - 
 Leif Poorman (leif.poorman@gmail.com)
 
-*(["https://github.com/LightTable/LightTable" #{"starter"}]
+* (["https://github.com/LightTable/LightTable" #{"starter"}]
 * ["https://github.com/technomancy/leiningen" #{"usability" "docs" "Newbie"}]
 * ["https://github.com/weavejester/compojure" #{"easy" "trivial"}]
 * ["https://github.com/swannodette/om" #{"trivial" "example" "minor"}]
