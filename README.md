@@ -38,6 +38,7 @@ Leif Poorman (leif.poorman@gmail.com)
 * ["https://github.com/gameclosure/hermes" #{"documentation"}]
 * ["https://github.com/wri/forma-clj" #{"cleanup"}]
 * ["https://github.com/cgmartin/clj-wamp" #{"docs"}])
+* ["https://github.com/clojure/clojure" #{"newbie"}]) ;; JIRA: http://dev.clojure.org/jira/browse/CLJ
 
  
  
