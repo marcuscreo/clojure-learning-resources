@@ -40,7 +40,7 @@ Leif Poorman (leif.poorman@gmail.com)
 * ["https://github.com/cgmartin/clj-wamp" #{"docs"}]
 * ["https://github.com/clojure/clojure" #{"newbie"}] ;; JIRA: http://dev.clojure.org/jira/browse/CLJ
 * ["https://github.com/MichaelDrogalis/onyx" #{"newbie"}]) ;;  About a week ago, I open sourced Onyx, a new distributed computation platform.  I've been looking for help from developers of all skill levels, though I have 3 or 4 open tasks particularly well suited to someone with intermediate skills.  Contact me at madrush131@gmail.com.
- 
+* ["https://github.com/edlich/clarango" #{"low hanging fruit" "enhancement" "new feature"}]
  
  
  ### If you have other resources, send me a pull request! - Marcus
